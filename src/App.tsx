@@ -234,7 +234,7 @@ export default function App() {
               <span className="px-2.5 py-0.5 rounded text-[9px] font-bold font-mono tracking-[0.25em] bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/20 uppercase">
                 STUDIO / POSTER GEN
               </span>
-              <span className="text-[10px] text-neutral-500 font-bold tracking-wider font-mono">V1.5 (SECURE LOCAL ENGINE)</span>
+              <span className="text-[10px] text-neutral-500 font-bold tracking-wider font-mono">V1 BY RAKARMP (🟢ON UP TO DATE)</span>
             </div>
             
             <h1 className="text-xl font-bold font-sans tracking-[0.1em] text-white uppercase flex items-center gap-2">
@@ -243,7 +243,9 @@ export default function App() {
             </h1>
             
             <p className="text-xs text-neutral-400 max-w-xl font-sans">
-              Rancang kutipan kata estetik menjadi poster grafis Instagram dengan visual modern, filter grain, aksen frame, dan unduhan kualitas Ultra-HD secara instan.
+              Rancang kutipan kata estetik menjadi poster grafis dengan visual modern, filter grain, aksen frame, dan unduhan kualitas Ultra-HD secara instan.
+
+From Me For U To Fun OK!
             </p>
           </div>
 
