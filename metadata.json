@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic Quote Poster Maker",
+  "description": "An interactive web app to design, customize, and save aesthetic typography poster graphics for social media (Instagram Feed/Story) in high resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
