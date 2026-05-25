@@ -293,7 +293,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2.5">
           <span>AESTHETIC POSTER STUDIO // ARTISTIC FLAIR EDITION</span>
           <span className="flex items-center gap-1 uppercase">
-            DIGARAP DENGAN <Heart className="w-3 h-3 text-[#FF4F00] fill-[#FF4F00]" /> DAN CRAFTSMANSHIP TINGGI
+            BUILD WITH <Heart className="w-3 h-3 text-[#FF4F00] fill-[#FF4F00]" /> BY RAKARMP
           </span>
         </div>
       </footer>
